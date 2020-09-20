@@ -1,5 +1,5 @@
 # Mini-Project---Image-Classification
-This is my mini project based on image calssification
+This is my mini project based on image classification
 
 
 
